@@ -100,7 +100,7 @@ So, we can set the flag to 'True' for these observations.
 
 #### Analyzing Variables:
 We will use following plots:
-The **discrete plot** is for finite numbers. We will use `boxplo`t, to see the medians and interquartile ranges, and the striplot, which is a better way of seeing the distribution, even more when lots of outliers are present.
+The **discrete plot** is for finite numbers. We will use `boxplot`, to see the medians and interquartile ranges, and the striplot, which is a better way of seeing the distribution, even more when lots of outliers are present.
 
 The **continuous plot**, as the name says, is for continuous variables. We will see the distribution of probabilities and use `BoxCox` to understand if there is increase of correlation and decrease of skewness for each variable. In some cases the process of transforming a variable can help, depending on the model.
 
