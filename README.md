@@ -15,3 +15,6 @@
 
 # <div align="center">Walmart store sales prediction</div>
 <div align="center">
+
+<img src  ="https://github.com/Pradnya1208/Walmart-store-sales-prediction/blob/main/output/intro.png?raw=true" width="100%">
+</div>
